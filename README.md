@@ -67,13 +67,7 @@ A cloud restaurant platform enabling chef registrations, meal offerings, and del
 
 ### ♻️ **[Recycling Management System – Pontoverde](#)**  
 A GIS-based system for managing recycling bins in Lisbon, promoting sustainability and recycling awareness.  
-- **Technologies**: React.js, Leaflet, MongoDB, Node.js  
-
----
-
-## 📈 **GitHub Stats**  
-![Abdelbassat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LABECHE-Abdelbassat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LABECHE-Abdelbassat&layout=compact&theme=radical)  
+- **Technologies**: React.js, Leaflet, MongoDB, Node.js
 
 ---
 
